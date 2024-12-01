@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate software developer / web developer from India</h3>
-<img  align="right" alt="coding" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img  align="center" alt="coding" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan&label=Profile%20views&color=0e75b6&style=flat" alt="darshan" /> </p>
 
